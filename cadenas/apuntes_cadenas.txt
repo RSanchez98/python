@@ -1,0 +1,18 @@
+DEVOLVER LOS PRIMEROS CARACTERES DE LA CADENA
+	cad[:2] --> las 2 primeras letras de la cadena
+
+DEVOLVER LA CADENA A PARTIR DE UNA POSICIÓN
+	cad[2:] --> a partir del caracter 2, muestra toda la cadena
+
+DEVOLVER LOS ULTMIOS CARACTERES DE LA CADENA
+	cad[-2:] --> los 2 ultimos caracteres de la cadnea
+
+DEVOLVER CADENA CADA X CARACTERES
+	cad[::2] --> muestra la cadena cada 2 caracteres
+	cad[2::2] --> empieza a contar despues de los 2 primeros caracteres, y luego muestra cada dos
+
+DEVOLVER CADENA EN SENTIDO INVERSO
+	cad[::-1] --> devuelve la cadena al revés
+
+QUITAR CARACTER
+	cad[:-1] --> elimina el ultimo caracter
